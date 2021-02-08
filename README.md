@@ -1,2 +1,2 @@
-Realizando PUSH al servidor Remoto
+Realizando fetch  al servidor Remoto
 Nuevo mensaje push
